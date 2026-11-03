@@ -7,6 +7,8 @@
 > [Nexus Mods](https://www.nexusmods.com/eldenring/mods/9271) 下载原版，
 > 然后用本脚本给自己的副本打补丁。
 
+![界面预览](preview.png)
+
 ## 为什么是"补丁"而不是"汉化版"
 
 原项目使用 **Source-Available License**，其中明确规定：
